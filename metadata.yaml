@@ -1,0 +1,28 @@
+_repo: Our-Southern-Highlanders_31709
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kephart, Horace
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '35425'
+    url: http://www.gutenberg.org/2009/agents/35425
+description: ''
+gutenberg_issued: '2010-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Appalachian Region, Southern -- Description and travel'
+- !lcsh 'Appalachians (People) -- Social life and customs'
+- !lcc 'F206'
+- !lcsh 'Appalachian Region, Southern -- Social life and customs'
+title: Our Southern Highlanders
+url: http://www.gutenberg.org/ebooks/31709
